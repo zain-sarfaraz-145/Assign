@@ -1,0 +1,4 @@
+c:\users\cz 3\documents\visual studio 2010\Projects\OOP\OOP\bin\Debug\OOP.exe
+c:\users\cz 3\documents\visual studio 2010\Projects\OOP\OOP\bin\Debug\OOP.pdb
+c:\users\cz 3\documents\visual studio 2010\Projects\OOP\OOP\obj\x86\Debug\OOP.exe
+c:\users\cz 3\documents\visual studio 2010\Projects\OOP\OOP\obj\x86\Debug\OOP.pdb
